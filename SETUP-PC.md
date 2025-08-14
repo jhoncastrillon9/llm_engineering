@@ -65,6 +65,8 @@ There is an alternative to Part 2 if this gives you problems.
 
 Deberías ver `(llms)` en tu prompt, lo que indica que has activado tu nuevo entorno.
 
+PARA ACTUALZIAR CONDA ===  conda env update --file environment.yml --prune
+
 3. **Inicia Jupyter Lab:**
 
 - En el indicador de Anaconda, desde la carpeta `llm_engineering`, escribe: `jupyter lab`
